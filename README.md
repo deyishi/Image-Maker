@@ -1,2 +1,2 @@
-# Image-Maker
-a very simple JPG file modification program
+# Redit
+a simple program that simulate Redit
